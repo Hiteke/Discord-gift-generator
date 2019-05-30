@@ -1,5 +1,4 @@
-# Discord Gift Generator
-![](https://discordsl.com/assets/icons/534541605781241856.png)
+# Discord Gift Generator ![](https://discordsl.com/assets/icons/534541605781241856.png)
 ```js
 const Discord = require('discord.js');
 const client = new Discord.Client();
