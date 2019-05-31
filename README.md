@@ -1,4 +1,4 @@
-# Discord Gift Generator
+# Discord Gift Link Generator
 
 ```js
 const Discord = require('discord.js');
