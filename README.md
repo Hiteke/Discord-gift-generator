@@ -1,4 +1,5 @@
-# Discord Gift Generator ![](https://discordsl.com/assets/icons/534541605781241856.png)
+# Discord Gift Generator
+
 ```js
 const Discord = require('discord.js');
 const client = new Discord.Client();
@@ -18,7 +19,6 @@ client.on('ready', () => {
  
 client.login('token'); //Bot Token 
 ```
+>![](https://i.imgur.com/K9yoCEQ.png)
 
 [![N|Solid](https://i.imgur.com/pCQZbUc.png)](https://github.com/Hiteke/Discord-gift-generator/archive/v0.1.zip)
-
-
