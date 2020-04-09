@@ -1,4 +1,33 @@
-# Discord Gift Link Generator [Soon]
+Use https://github.com/Hiteke/GiftGeneratorDiscord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Discord Gift Link Generator
 
 ```js
 const Discord = require('discord.js');
