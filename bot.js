@@ -13,5 +13,5 @@ var password = generator.generate({
  i++;
 }
  });
- 
-client.login('token'); //Bot Token 
+
+client.login('token'); //Bot Token

@@ -1,0 +1,32 @@
+{
+  "name": "discord-gift-generator",
+  "version": "1.0.0",
+  "description": "```js const Discord = require('discord.js'); const client = new Discord.Client(); const generator = require('generate-password');",
+  "main": "bot.js",
+  "dependencies": {
+    "async-limiter": "^1.0.1",
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.5.1",
+    "generate-password": "^1.4.2",
+    "long": "^4.0.0",
+    "prism-media": "^1.1.0",
+    "safe-buffer": "^5.2.0",
+    "snekfetch": "^4.0.4",
+    "tweetnacl": "^1.0.1",
+    "ws": "^7.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiteke/Discord-gift-generator.git"
+  },
+  "author": "Hiteke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hiteke/Discord-gift-generator/issues"
+  },
+  "homepage": "https://github.com/Hiteke/Discord-gift-generator#readme"
+}
